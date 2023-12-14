@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main {
+  display: flex;
+  margin-top: 20px;
+}
+
+.container-rightside {
+  margin: 100px;
+}
+
+.p {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.h1 {
+  text-align: center;
+}
+
+.button {
+  display: flex;
+  border-radius: 20px;
+  background-color: black;
+  color: white;
+}
+
+.yazi {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container-rightside2 {
+  display: flex;
+  gap: 20px;
+}
+
+.P1 {
+  color: blue;
+}
+
+.h3 {
+  margin-top: 20px;
+}
+
+.c15 {
+  display: flex;
+  margin-top: 20px;
+}
+
+.pdollar {
+  color: green;
+}
+
+.pdollarcontainer {
+  display: flex;
+}
+
+.icons {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.iconcool {
+  display: flex;
+}
+
+.button2 {
+  background: transparent;
+  border-radius: 20px;
+  color: blue;
+  height: 40px;
+  width: 100px;
+  text-align: center;
+  cursor: pointer;
+  margin-top: 20px;
+  border-color: blue;
+}
+
+.img1 {
+  z-index: -1;
+}/*# sourceMappingURL=style.css.map */
