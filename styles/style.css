@@ -2,6 +2,9 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Nunito", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .main {
@@ -83,5 +86,50 @@
 }
 
 .img1 {
-  z-index: -1;
+  position: absolute;
+  right: 170px;
+  top: 250px;
+  border-radius: 15px;
+  background-color: white;
+  padding: 6px;
+  cursor: pointer;
+}
+
+.container1 {
+  position: relative;
+}
+
+.container2 {
+  position: relative;
+}
+
+.img2 {
+  position: absolute;
+  right: 120px;
+  top: 250px;
+  border-radius: 15px;
+  background-color: white;
+  padding: 6px;
+  cursor: pointer;
+}
+
+.img3 {
+  position: absolute;
+  right: 70px;
+  top: 250px;
+  border-radius: 15px;
+  background-color: white;
+  padding: 6px;
+  cursor: pointer;
+}
+
+.button3 {
+  position: absolute;
+  right: 170px;
+  top: 20px;
+  color: white;
+  background-color: red;
+  width: 60px;
+  cursor: pointer;
+  border: none;
 }/*# sourceMappingURL=style.css.map */
